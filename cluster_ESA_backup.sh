@@ -85,7 +85,7 @@ $FILENAME2_base64
 
 --MULTIPART-MIXED-BOUNDARY--
 
-" >> data.txt
+" > data.txt
 
 unix2dos data.txt
 
