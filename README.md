@@ -1,4 +1,5 @@
-# cluster-ESA-backup
+# Cluster ESA Backup Script
+[![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 
 cluster_ESA_backup.sh is a fork of "https://www.cisco.com/c/en/us/support/docs/security/email-security-appliance/118403-technote-esa-00.html"
 
